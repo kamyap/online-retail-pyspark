@@ -1,0 +1,12 @@
+# Core requirement for Spark operations
+pyspark>=3.4.0
+
+# Optional - for any small tabular display or local testing
+pandas
+
+# Optional - if you plan to visualize trends outside Databricks
+matplotlib
+seaborn
+
+# Optional - for datetime formatting if done locally
+python-dateutil
