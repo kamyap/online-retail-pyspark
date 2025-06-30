@@ -17,6 +17,7 @@ Notebooks
 - data_ingestion_cleaning.py – Load and clean data
 - exploratory_data_analysis.py – Explore key metrics and patterns
 - transformations_aggregations.py – Customer, product, and time-based aggregations
+- advanced_spark_features.py - Advanced PySpark concepts like Joins, UDFs, Repartition, and Coalesce.
 
 Insights Generated
 
